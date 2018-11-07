@@ -37,8 +37,9 @@ It is a collection of data about multiple wallets. So users can easily compare t
  * website - string
  * peepet - string - e.g. walleth,
  * twitter - string wallethapp
+ * walletconnect_support - boolean
  * trezor_support  - boolean
- * leger_support  - boolean
+ * ledger_support  - boolean
  
 # Context
 
